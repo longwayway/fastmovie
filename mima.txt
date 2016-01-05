@@ -1,0 +1,6 @@
+# useradd damao                         
+
+# echo 123456| passwd --stdin damao       
+\
+
+echo "Test mail from postfix" | mail -s "Test Postfix" xxx@xxx.com
